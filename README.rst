@@ -1,3 +1,7 @@
+For local version, instalfl using
+
+pip install -U git+ssh://git@github.com/cforemoto/django-rest-framework-simplejwt.git@master#djangorestframework_simplejwt.egg-info
+
 Simple JWT
 ==========
 
