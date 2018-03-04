@@ -65,6 +65,9 @@ class Token(object):
     def __getitem__(self, key):
         return self.payload[key]
 
+    def get(self, key, default=None):
+        return self.payload.get(key, default)
+
     def __setitem__(self, key, value):
         self.payload[key] = value
 

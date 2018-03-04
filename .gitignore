@@ -7,8 +7,6 @@
 /htmlcov/
 /coverage/
 /build/
-/dist/
-/*.egg-info/
 /env/
 MANIFEST
 coverage.*
